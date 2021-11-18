@@ -1,27 +1,16 @@
 .div1{
-  background-color: #93B5CD;
-  border: 10px solid;
   padding : 20px;
-  height: 200px;
-  width: 200px;
-}
-.div2{
-  background-color: red;
-  border: solid 20px;
-  height: 200px;
-  width: 200px;
-  margin-left: 260px;
-}
-.div3{
-  background-color: blue;
-  height: 200px;
-  width: 200px;
-  border: 10px solid;
-  margin-left: 500px;
+  text-align: center;
 }
 body{
   margin: 0;
+  background-color: #E8F6EF;
 }
 h1{
   margin:0;
+}
+.images {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
